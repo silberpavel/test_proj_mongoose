@@ -1,0 +1,9 @@
+.typed-cursor {
+    color: cadetblue;
+    font-size: larger;
+    display: inline-block;
+    opacity: 1;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite; 
+}
